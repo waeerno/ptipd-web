@@ -1,4 +1,4 @@
-.kingster-header-wrap.kingster-header-style-plain{ box-shadow: 0px 1px 4px rgba(0,0,0,0.1); -webkit-box-shadow: 0px 1px 4px rgba(0,0,0,0.1); }.kingster-top-bar-right-button{ padding-bottom: 19px; margin-bottom: -19px; }.kingster-body h1, .kingster-body h2, .kingster-body h3, .kingster-body h4, .kingster-body h5, .kingster-body h6{ margin-top: 0px; margin-bottom: 20px; line-height: 1.2; font-weight: 700; }
+.kingster-page-title-wrap{ background-image: url(http://ptipd.test/wp-content/uploads/2018/08/page-title.jpg); }.kingster-header-wrap.kingster-header-style-plain{ box-shadow: 0px 1px 4px rgba(0,0,0,0.1); -webkit-box-shadow: 0px 1px 4px rgba(0,0,0,0.1); }.kingster-top-bar-right-button{ padding-bottom: 19px; margin-bottom: -19px; }.kingster-body h1, .kingster-body h2, .kingster-body h3, .kingster-body h4, .kingster-body h5, .kingster-body h6{ margin-top: 0px; margin-bottom: 20px; line-height: 1.2; font-weight: 700; }
 #poststuff .gdlr-core-page-builder-body h2{ padding: 0px; margin-bottom: 20px; line-height: 1.2; font-weight: 700; }
 #poststuff .gdlr-core-page-builder-body h1{ padding: 0px; font-weight: 700; }
 
@@ -228,7 +228,7 @@ body.kingster-boxed .kingster-body-wrapper{ margin-top: 0px; margin-bottom: 0px;
 .kingster-not-found-wrap .kingster-not-found-background{ opacity: 0.27; } 
 .kingster-blog-title-wrap.kingster-style-custom .kingster-blog-title-content{ padding-top: 93px; } 
 .kingster-blog-title-wrap.kingster-style-custom .kingster-blog-title-content{ padding-bottom: 87px; } 
-.kingster-blog-title-wrap{ background-image: url(); } 
+.kingster-blog-title-wrap{ background-image: url(http://ptipd.test/wp-content/uploads/2018/08/page-title.jpg); } 
 .kingster-blog-title-wrap.kingster-feature-image .kingster-blog-title-top-overlay{ height: 242px; } 
 .kingster-blog-title-wrap.kingster-feature-image .kingster-blog-title-bottom-overlay{ height: 333px; } 
 .kingster-blog-title-wrap .kingster-blog-title-overlay{ opacity: 0.25; } 
